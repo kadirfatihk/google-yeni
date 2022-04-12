@@ -1,0 +1,157 @@
+/*** HEADER ***/
+
+.ustkutucuk{
+    border-style: solid;
+    border-width: 1px;
+    width: 100px;
+    height: 30px;
+    float: left;
+    margin: 2px;
+    border-color: white;
+    margin: -15px;
+    padding-left: 30px;
+    padding-top: 5px;
+    position: relative;
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+header a:hover{
+    text-decoration: solid;
+}
+#gmailbox{
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    text-align: center;
+    width: 75px;
+    height: 30px;
+    float: left;
+    margin: 5px;
+    position: relative;
+    left: 980px;
+    top: -2px;
+    font-size: 16px;
+}
+#signup{
+    width: 75px;
+    height: 35px;
+    float: left;
+    position: relative;
+    left: 1020px;
+    top: 5px;
+    color: white;
+    background-color:cornflowerblue;
+    border-radius: 5px;
+    border-color:cornflowerblue ;
+}
+#boxkutucuk{
+    float: right;
+    position: relative;
+    left: -120px;
+    top: 1px;
+}
+#imagebox{
+    border-style: solid;
+    float: left; 
+    border-color: white;
+    position: relative;
+    left: 970px;
+    top: 1px;
+    font-size: 16px;
+}
+
+/*** NAV ***/
+
+nav img{
+    position: relative;
+    top: 150px;
+    left: 240px;
+}
+
+/*** ARTICLE ***/
+
+#searchbox{
+    border-style: solid;
+    width: 550px;
+    height: 45px;
+    border-color: #f2f2f2;
+    border-radius: 25px;
+    position: relative;
+    left: 450px;
+    top: 160px;
+    font-size: 16px;
+    text-indent: 40px;
+    font-weight: lighter;
+    box-shadow: lightgrey 3px 3px 3px 3px;
+}
+article img{
+    position: relative;
+    left: 470px;
+    top: 120px;
+}
+#microfon{
+    position: relative;
+    left: 950px;
+   top: 123px;
+}
+
+/*** ASİDE ***/
+
+aside input{
+    position: relative;
+    top: 170px;
+    left: 580px; 
+    margin-left: 15px;
+    border-color:white;
+    border-width: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #5f6368;
+    height: 36px;
+    width: 130px;
+    border-radius: 5px;
+}
+
+/*** FOOTER ***/
+
+footer{
+    background-color: #f2f2f2;
+    position: relative;
+    top: 495px;
+    width: 1480px;
+    height: 50px;
+}
+.altkutu{
+    display: inline;
+}
+.altkutu a{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    color:grey;
+    position: relative;
+    top: 15px;
+    font-size: 16px;
+} 
+.altkutu1{
+    position: relative;
+    left: 100px;
+    top: -100px;
+    display: inline;
+
+}
+.altkutu1 a{
+    display: inline;
+    position: relative;
+    left: 800px;
+    top: 110px;
+    font-size: 16px;
+    color: grey;
+    padding: 10px;
+    text-decoration: none;
+}
+footer a:active{
+    color: red;
+}
